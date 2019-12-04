@@ -19,8 +19,7 @@ body {
 }
 
 .sociais ul {
-    margin-top: 20px;
-    text-align: right;
+    padding: 0;
 }
 
 .jumbotron {
@@ -30,8 +29,8 @@ body {
 }
 
 .card01 img {
-    height: 390px;
-    width: 430px;
+    height: 330px;
+    width: 350px;
 }
 
 .bloco-video {
